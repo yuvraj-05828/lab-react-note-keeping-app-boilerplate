@@ -5,7 +5,7 @@
 
 ## Learning Goals
 
-In this exercise, the goal is to apply various higher order functions in react:
+In this exercise, the goal is to learn state and components in react:
 
 - when and how to setup react in your application,
 - learn component and basic state management in react.
