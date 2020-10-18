@@ -73,7 +73,7 @@ There are two parts in your component. On the left side you should define a edit
             </div>
 ```
 
-### PROGRESSION 2 | MAKE IT WORK
+### PROGRESSION 2 | SET IT UP
 In this progression let us define the editor functionality. To do this we need to define a empty value inside the state.
 
 ```
