@@ -47,7 +47,7 @@ function App() {
 export default App;
 ```
 
-Now create a folder called components inside the src folder and create a component called Editor.jsx file. Once you create it you are good to go.
+Now create a folder called components inside the src folder and create a component called Editor.jsx file. Once you create it you are good to go. Add your component to app.js file.
 **Note: use rcc to generate the code template**.  
 
 So let's get started!
