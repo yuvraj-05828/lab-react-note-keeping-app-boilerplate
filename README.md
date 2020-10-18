@@ -73,6 +73,7 @@ There are two parts in your component. On the left side you should define a edit
             </div>
 ```
 
+
 ### PROGRESSION 2 | SET IT UP
 In this progression let us define the editor functionality. To do this we need to define a empty value inside the state.
 
@@ -88,6 +89,7 @@ In this progression let us define the editor functionality. To do this we need t
         };
     }
 ```
+**Do not forget to add styles to your Editor.jsx**. To add style create a file called Editor.jsx and write styles to it.
 
 ### PROGRESSION 2 | START TYPING
 We have already defined the state, but it won't work unless we define the event handler right. To do that in react we need to do some minor changes to your render component and also we need to handle the onChange event.
