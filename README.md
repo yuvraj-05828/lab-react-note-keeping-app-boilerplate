@@ -1,7 +1,6 @@
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
-
-# ProGrad Lab | REACT - PRONOTE
+# Kalvium Lab | REACT - PRONOTE
 
 ## Learning Goals
 
@@ -129,5 +128,5 @@ If you managed to do it, good job! :trophy:
 
 We are proud of you!
 
-Happy Coding ProGrad ❤️!
+Happy Coding Kalvium ❤️!
 
