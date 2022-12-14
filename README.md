@@ -18,7 +18,6 @@ Whenever you create a first significant change, you should make your first commi
 
 3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
 
-In the end of this document, you will find guidelines on how to submit the exercise.
 
 ### Introduction
 
