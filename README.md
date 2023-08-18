@@ -91,7 +91,7 @@ In this progression let us define the editor functionality. To do this we need t
 ```
 **Do not forget to add styles to your Editor.jsx**. To add style create a file called Editor.jsx and write styles to it.
 
-### PROGRESSION 2 | START TYPING
+### PROGRESSION 3 | START TYPING
 We have already defined the state, but it won't work unless we define the event handler right. To do that in react we need to do some minor changes to your render component and also we need to handle the onChange event.
 Check out the below code snippet.
 
